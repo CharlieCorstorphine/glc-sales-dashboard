@@ -4603,23 +4603,244 @@
         "e": null,
         "a": null,
         "n": ""
+      },
+      {
+        "id": "2848724342",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "Investor - City Tower",
+        "p": "Carolyn Tunbell",
+        "co": "Investor/End client",
+        "t": "Existing client meeting",
+        "o": "Deal progression",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853191767",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "H&H",
+        "p": "Polina",
+        "co": "Developer",
+        "t": "New client meeting",
+        "o": "Deal progression",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853202585",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "H&H",
+        "p": "Vlada Bobrova",
+        "co": "Developer",
+        "t": "New client meeting",
+        "o": "Deal progression",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853196238",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "De Luna Interiors",
+        "p": "Liza De Luna",
+        "co": "Other",
+        "t": "New client meeting",
+        "o": "Introduce Global Living",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853195192",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Orascom developments",
+        "p": "Karim Mansi",
+        "co": "Developer",
+        "t": "New client meeting",
+        "o": "Introduce Global Living",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853183007",
+        "w": "2026-09-07",
+        "d": "2026-09-08",
+        "c": "Black Brick",
+        "p": "Dom Shabbo",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Introduce Global Living",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853231523",
+        "w": "2026-09-07",
+        "d": "2026-09-09",
+        "c": "Invespy",
+        "p": "Muhammed Owais",
+        "co": "Other",
+        "t": "New client meeting",
+        "o": "Introduce Global Living",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853195184",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Lend Ease",
+        "p": "Matt Purnell",
+        "co": "Other",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853202024",
+        "w": "2026-09-07",
+        "d": "2026-09-09",
+        "c": "GAA",
+        "p": "Ronak",
+        "co": "Other",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853191733",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "Investor - City Tower",
+        "p": "Nicholas Vard",
+        "co": "Investor/End client",
+        "t": "New client meeting",
+        "o": "Deal progression",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853202586",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "H&H",
+        "p": "Elle Jamshidi",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Deal progression",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853232862",
+        "w": "2026-09-07",
+        "d": "2026-09-11",
+        "c": "Driven",
+        "p": "Dalila Laaribi",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853195186",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Sotherbys",
+        "p": "Fehd Alsaidi",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853196241",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Betterhomes",
+        "p": "Cynthia Diaw",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853200353",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Provident",
+        "p": "Adrienne",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853700101",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "Betterhomes",
+        "p": "Amanda Hourieh",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853702055",
+        "w": "2026-09-07",
+        "d": "2026-09-11",
+        "c": "Aldar",
+        "p": "Stan Elenor Glynn",
+        "co": "Developer",
+        "t": "Existing client meeting",
+        "o": "Introduce Global Living",
+        "e": null,
+        "a": null,
+        "n": ""
       }
     ],
     "dashboard": {
-      "thisWeek": "2026-08-31",
-      "planTotal": 7,
+      "thisWeek": "2026-09-07",
+      "planTotal": 17,
       "planByType": [
         {
           "k": "Intro / first meeting",
-          "v": 1
+          "v": 0
         },
         {
           "k": "Existing client meeting",
-          "v": 5
+          "v": 10
         },
         {
           "k": "New client meeting",
-          "v": 1
+          "v": 7
         },
         {
           "k": "Event",
@@ -4672,9 +4893,9 @@
           "v": 0
         }
       ],
-      "lastWeek": "2026-08-24",
-      "lastWeekTotalActual": 2,
-      "lastWeekTotalTarget": 18,
+      "lastWeek": "2026-08-31",
+      "lastWeekTotalActual": 0,
+      "lastWeekTotalTarget": 7,
       "lastWeekOutcomes": [
         {
           "k": "Introduce Global Living",
@@ -4708,9 +4929,9 @@
         },
         {
           "k": "Proposals / Quotes Issuance",
-          "t": 4,
+          "t": 0,
           "a": 0,
-          "v": -4
+          "v": 0
         },
         {
           "k": "New lead created",
@@ -4720,9 +4941,9 @@
         },
         {
           "k": "Send Brochure",
-          "t": 3,
+          "t": 0,
           "a": 0,
-          "v": -3
+          "v": 0
         },
         {
           "k": "Send Referral Agreement",
@@ -10115,7 +10336,7 @@
         "t": "Existing client meeting",
         "o": "Deal progression",
         "e": "Deal progression",
-        "a": null,
+        "a": "Deal progression",
         "n": ""
       },
       {
@@ -10128,7 +10349,7 @@
         "t": "New client meeting",
         "o": "Deal progression",
         "e": "New lead created",
-        "a": null,
+        "a": "Deal progression",
         "n": ""
       },
       {
@@ -10141,7 +10362,7 @@
         "t": "New client meeting",
         "o": "Qualify opportunity",
         "e": "New lead created",
-        "a": null,
+        "a": "Send Brochure",
         "n": ""
       },
       {
@@ -10153,21 +10374,8 @@
         "co": "Broker",
         "t": "New client meeting",
         "o": "Qualify opportunity",
-        "e": "New lead created",
-        "a": null,
-        "n": ""
-      },
-      {
-        "id": "2849258904",
-        "w": "2026-08-31",
-        "d": "2026-09-02",
-        "c": "The Pad",
-        "p": "Mir",
-        "co": "Investor/End client",
-        "t": "New client meeting",
-        "o": "Qualify opportunity",
-        "e": "New lead created",
-        "a": null,
+        "e": "Qualify opportunity",
+        "a": "Qualify opportunity",
         "n": ""
       },
       {
@@ -10206,7 +10414,20 @@
         "t": "New client meeting",
         "o": "Qualify opportunity",
         "e": "Qualify opportunity",
-        "a": null,
+        "a": "Send Brochure",
+        "n": ""
+      },
+      {
+        "id": "2849258904",
+        "w": "2026-08-31",
+        "d": "2026-09-03",
+        "c": "The Pad",
+        "p": "Mir",
+        "co": "Investor/End client",
+        "t": "New client meeting",
+        "o": "Qualify opportunity",
+        "e": "New lead created",
+        "a": "New lead created",
         "n": ""
       },
       {
@@ -10219,29 +10440,224 @@
         "t": "Intro / first meeting",
         "o": "Introduce Global Living",
         "e": "Send Brochure",
+        "a": "Rescheduled",
+        "n": ""
+      },
+      {
+        "id": "2853607415",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "Betterhomes",
+        "p": "Yang Zhang",
+        "co": "Investor/End client",
+        "t": "New client meeting",
+        "o": "Proposals / Presentation",
+        "e": "Proposals / Quotes Issuance",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853622611",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "Real Estate TBD",
+        "p": "Jawad",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": "New lead created",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853651965",
+        "w": "2026-09-07",
+        "d": "2026-09-07",
+        "c": "LuxuryProperty.com",
+        "p": "Elliyna",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Proposals / Presentation",
+        "e": "Proposals / Quotes Issuance",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853651966",
+        "w": "2026-09-07",
+        "d": "2026-09-08",
+        "c": "Betterhomes",
+        "p": "Ramona",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Proposals / Presentation",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853615011",
+        "w": "2026-09-07",
+        "d": "2026-09-08",
+        "c": "Betterhomes",
+        "p": "Theodore Felici",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Deal progression",
+        "e": "Deal progression",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853607025",
+        "w": "2026-09-07",
+        "d": "2026-09-08",
+        "c": "Betterhomes",
+        "p": "Jacob Bramley",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853615073",
+        "w": "2026-09-07",
+        "d": "2026-09-08",
+        "c": "IPS",
+        "p": "Event",
+        "co": "Other",
+        "t": "Event",
+        "o": "Qualify opportunity",
+        "e": "New lead created",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853651970",
+        "w": "2026-09-07",
+        "d": "2026-09-09",
+        "c": "Betterhomes",
+        "p": "Erika Jalovska",
+        "co": "Broker",
+        "t": "Intro / first meeting",
+        "o": "Introduce Global Living",
+        "e": "Send Brochure",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853615072",
+        "w": "2026-09-07",
+        "d": "2026-09-09",
+        "c": "4 Direction",
+        "p": "Saad Chakil",
+        "co": "Broker",
+        "t": "Intro / first meeting",
+        "o": "Introduce Global Living",
+        "e": "Send Brochure",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853620338",
+        "w": "2026-09-07",
+        "d": "2026-09-09",
+        "c": "Richard Brock",
+        "p": "Penthouse",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Qualify opportunity",
+        "e": "New lead created",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853607032",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Betterhomes",
+        "p": "Oliver Banks",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Deal progression",
+        "e": "Deal progression",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853652009",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Betterhomes",
+        "p": "Mia Engledew",
+        "co": "Broker",
+        "t": "Existing client meeting",
+        "o": "Relationship advance",
+        "e": null,
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853618695",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Espace",
+        "p": "Rumbi",
+        "co": "Broker",
+        "t": "Intro / first meeting",
+        "o": "Introduce Global Living",
+        "e": "Send Brochure",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853620653",
+        "w": "2026-09-07",
+        "d": "2026-09-10",
+        "c": "Espace",
+        "p": "Jodie",
+        "co": "Broker",
+        "t": "Intro / first meeting",
+        "o": "Introduce Global Living",
+        "e": "Send Brochure",
+        "a": null,
+        "n": ""
+      },
+      {
+        "id": "2853623901",
+        "w": "2026-09-07",
+        "d": "2026-09-11",
+        "c": "Betterhomes",
+        "p": "Josh Conlon",
+        "co": "Broker",
+        "t": "New client meeting",
+        "o": "Qualify opportunity",
+        "e": "Qualify opportunity",
         "a": null,
         "n": ""
       }
     ],
     "dashboard": {
-      "thisWeek": "2026-08-31",
-      "planTotal": 9,
+      "thisWeek": "2026-09-07",
+      "planTotal": 15,
       "planByType": [
         {
           "k": "Intro / first meeting",
-          "v": 1
+          "v": 4
         },
         {
           "k": "Existing client meeting",
-          "v": 3
+          "v": 4
         },
         {
           "k": "New client meeting",
-          "v": 5
+          "v": 6
         },
         {
           "k": "Event",
-          "v": 0
+          "v": 1
         },
         {
           "k": "Site / showroom visit",
@@ -10267,7 +10683,7 @@
         },
         {
           "k": "Deal progression",
-          "v": 1
+          "v": 2
         },
         {
           "k": "Proposals / Presentation",
@@ -10275,24 +10691,24 @@
         },
         {
           "k": "Proposals / Quotes Issuance",
-          "v": 0
+          "v": 2
         },
         {
           "k": "New lead created",
-          "v": 4
+          "v": 3
         },
         {
           "k": "Send Brochure",
-          "v": 1
+          "v": 4
         },
         {
           "k": "Send Referral Agreement",
           "v": 0
         }
       ],
-      "lastWeek": "2026-08-24",
-      "lastWeekTotalActual": 9,
-      "lastWeekTotalTarget": 13,
+      "lastWeek": "2026-08-31",
+      "lastWeekTotalActual": 7,
+      "lastWeekTotalTarget": 9,
       "lastWeekOutcomes": [
         {
           "k": "Introduce Global Living",
@@ -10308,15 +10724,15 @@
         },
         {
           "k": "Qualify opportunity",
-          "t": 1,
-          "a": 2,
-          "v": 1
+          "t": 2,
+          "a": 1,
+          "v": -1
         },
         {
           "k": "Deal progression",
-          "t": 0,
+          "t": 1,
           "a": 2,
-          "v": 2
+          "v": 1
         },
         {
           "k": "Proposals / Presentation",
@@ -10332,15 +10748,15 @@
         },
         {
           "k": "New lead created",
-          "t": 4,
-          "a": 0,
-          "v": -4
+          "t": 3,
+          "a": 1,
+          "v": -2
         },
         {
           "k": "Send Brochure",
-          "t": 3,
+          "t": 1,
           "a": 2,
-          "v": -1
+          "v": 1
         },
         {
           "k": "Send Referral Agreement",
