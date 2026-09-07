@@ -318,3 +318,12 @@
 - Olle Kjellberg progressed Nuvello Real Estate and Thomas to deal progression
 - Olle Kjellberg scheduled brochure sends for Penthouse and Espace
 - Olle Kjellberg rescheduled meetings with Betterhomes, LLoyd Manokore, and Networking Event
+
+## 2026-09-07
+
+- David Ives added 17 new client entries this week, including multiple developers (H&H, Orascom developments, Aldar), brokers (Driven, Sotherbys, Betterhomes, Provident), and others. Total entries grew from 354 to 371.
+- Olle Kjellberg added 15 new client entries, heavily focused on Betterhomes (7 entries across Broker and Investor/End client cohorts), plus brokers like Real Estate TBD, LuxuryProperty.com, 4 Direction, and Espace. Total entries grew from 422 to 437.
+- Olle progressed Amico and White & Co to "Deal progression" status.
+- Olle moved a Betterhomes opportunity from "New lead created" to "Qualify opportunity" and marked two other Betterhomes entries for "Send Brochure."
+- Olle rescheduled a Betterhomes entry.
+- Olle updated The Pad from "New lead created" status and shifted its date from September 2 to September 3.
